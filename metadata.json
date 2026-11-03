@@ -1,0 +1,6 @@
+{
+  "name": "Offline AI Studio",
+  "description": "100% offline studio featuring AI Text-to-Video generation, 4-mode QR Studio, Slideshow Video creator, and Any Language to Tamil Audio synthesis & OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
